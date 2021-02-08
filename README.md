@@ -70,7 +70,7 @@
 
 ![Mongodb2](Mongodb2.PNG)
 
-####Új dokumentum rögzítése és rekordok kiíratása konzolon
+#### Új dokumentum rögzítése és rekordok kiíratása konzolon
 
 ![Mongodb3](Mongodb3.PNG)
 
@@ -81,9 +81,7 @@
 
 ![Multilayer1](Multilayer1.PNG)
 
-#### 
 
-![Multilayer2](Multilayer2.PNG)
 
 #### Grafikus felületen végzett változtatások nyomon követése logfileban 
 
@@ -92,17 +90,17 @@
 
 ## Webes alkalmazás
 
-#### Korábbi adatbázisok kitörlése és új adatbázis indítása 
+#### GUI betöltése a localhost:8080/server címről  
 
-![Multilayer1](Webapp1.PNG)
+![Webapp1](Webapp1.PNG)
 
-####
+#### Requestek megjelenítése  
 
-![Multilayer2](Webapp2.PNG)
+![Webapp2](Webapp2.PNG)
 
-####
+#### HTML kérés és válasz 
 
-![Multilayer3](Webapp3.PNG)
+![Webapp3](Webapp3.PNG)
 
 
 ## Web formátumai: HTML és CSS
